@@ -1,0 +1,6 @@
+{
+  "name": "Heritage Roofing & Repairs",
+  "description": "Professional roofing and property repair services in London W2 1PX. Specialist roof repairs, maintenance, flat roofs, pitched roofing, and gutter care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
